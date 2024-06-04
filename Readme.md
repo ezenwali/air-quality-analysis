@@ -1,5 +1,5 @@
 # Air Quality Data Analysis Project
-<div style="display:flex">
+<div style="display:flex;justify-content:center">
 <img src="./notebooks/assets/aqhi_chart.png" alt="AQHI" width="300"/>
 <img src="./notebooks/assets/comparison_obj.png" alt="poullant-obj" width="300"/>
 </div>
