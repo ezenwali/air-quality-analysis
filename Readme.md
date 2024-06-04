@@ -1,4 +1,8 @@
 # Air Quality Data Analysis Project
+<div style="display:flex">
+<img src="./notebooks/assets/aqhi_chart.png" alt="AQHI" width="300"/>
+<img src="./notebooks/assets/comparison_obj.png" alt="poullant-obj" width="300"/>
+</div>
 
 ## Overview
 
@@ -74,9 +78,6 @@ Comparing the data against the standards set by Province of British Columbia rev
 ## References
 
 1. Air Quality Objectives & Standards - *Province of British Columbia*. (2019). Gov.bc.ca. https://www2.gov.bc.ca/gov/content/environment/air-land-water/air/air-quality-management/regulatory-framework/objectives-standards
-   
 2. Canada, Health. (2007). *Air Quality Health Index (AQHI)*. Retrieved from [https://www.canada.ca/en/health-canada/services/air-quality-health-index.html](https://www.canada.ca/en/health-canada/services/air-quality-health-index.html)
-
 3. Dunbar, P., Keyes, L. M., & Browne, J. P. (2023). Determinants of regulatory compliance in health and social care services: A systematic review using the Consolidated Framework for Implementation Research. *PLOS ONE*, 18(4), e0278007. https://doi.org/10.1371/journal.pone.0278007
-
 4. Pyone, T., Smith, H., & van den Broek, N. (2017). Frameworks to assess health systems governance: a systematic review. *Health Policy and Planning*, 32(5), 710–722. https://doi.org/10.1093/heapol/czx007

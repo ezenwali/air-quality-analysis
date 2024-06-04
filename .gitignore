@@ -10,6 +10,6 @@ env/
 dist/
 build/
 .DS_Store
-
+Air_Quality_Monitoring_Analysis_no_code.md
 # Jupyter Notebook files
 *.ipynb_checkpoints/
